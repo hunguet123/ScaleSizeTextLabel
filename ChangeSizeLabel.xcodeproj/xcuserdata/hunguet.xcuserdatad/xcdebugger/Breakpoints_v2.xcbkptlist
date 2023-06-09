@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79888A74-EF98-42D0-8260-A1841C261DCB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD941F40-8F92-4BBA-9520-E23B43000114"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChangeSizeLabel/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "setLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD941F40-8F92-4BBA-9520-E23B43000114 - 585dba248f01c649"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ChangeSizeLabel.ViewController.setLabel() -&gt; ()"
+                  moduleName = "ChangeSizeLabel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hunguet/Documents/xcode/learnIOS/ChangeSizeLabel/ChangeSizeLabel/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1840">
+               </Location>
+               <Location
+                  uuid = "AD941F40-8F92-4BBA-9520-E23B43000114 - 585dba248f01c649"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ChangeSizeLabel.ViewController.setLabel() -&gt; ()"
+                  moduleName = "ChangeSizeLabel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hunguet/Documents/xcode/learnIOS/ChangeSizeLabel/ChangeSizeLabel/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "900">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAA3853D-AAC2-40E2-9CBA-E6C877857285"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChangeSizeLabel/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "setLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAA3853D-AAC2-40E2-9CBA-E6C877857285 - 5576899490dde449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in ChangeSizeLabel.ViewController.setLabel() -&gt; ()"
+                  moduleName = "ChangeSizeLabel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hunguet/Documents/xcode/learnIOS/ChangeSizeLabel/ChangeSizeLabel/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "CAA3853D-AAC2-40E2-9CBA-E6C877857285 - 5576899490dde449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in ChangeSizeLabel.ViewController.setLabel() -&gt; ()"
+                  moduleName = "ChangeSizeLabel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hunguet/Documents/xcode/learnIOS/ChangeSizeLabel/ChangeSizeLabel/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
